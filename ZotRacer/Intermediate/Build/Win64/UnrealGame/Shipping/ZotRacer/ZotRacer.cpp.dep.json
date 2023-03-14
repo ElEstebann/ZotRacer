@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\p4_workspaces\\esteban_zotracer\\zotracer\\intermediate\\source\\zotracer.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\p4_workspaces\\esteban_zotracer\\zotracer\\intermediate\\build\\win64\\zotracer\\shipping\\core\\sharedpch.core.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\p4_workspaces\\esteban_zotracer\\zotracer\\intermediate\\build\\win64\\unrealgame\\shipping\\zotracer\\definitions.zotracer.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
